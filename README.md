@@ -5,5 +5,3 @@ Make sure you have the Ultimate ASI Loader installed
 
 Restored code from NFS:MW ExtraOptions that was removed in the newer versions
 All rights reserved to nlgxzef & ExOpts Team
-
-Also I might add some extra stuff
